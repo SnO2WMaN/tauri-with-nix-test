@@ -1,0 +1,15 @@
+# Nix
+.direnv
+result
+
+# Deoendencies
+node_modules
+
+# Logs
+logs
+*.log
+
+# Output
+dist
+dist-ssr
+*.local
