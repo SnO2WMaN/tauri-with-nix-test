@@ -1,6 +1,9 @@
 # Nix
 .direnv
 result
+result-bin
+result-dev
+result-man
 
 # Deoendencies
 node_modules

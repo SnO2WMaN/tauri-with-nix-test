@@ -28,7 +28,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
+      "identifier": "hello-tauri.sno2wman.net",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
